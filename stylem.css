@@ -1,0 +1,101 @@
+body{
+    background-image: url(https://www.kierunekwlochy.pl/wp-content/uploads/2019/07/10-rzeczy-ktore-cie-zaskocza-we-wloszech.jpg);
+    background-repeat: no-repeat;
+    margin-top: 80px;
+    cursor: cell;
+      }
+      #kontener{
+width: 960px;
+margin: 0 auto;
+}
+
+#naglowek{
+margin: 10px;
+width: 936px;
+height: 200px;
+border: 3px solid black;
+background-image: url(https://images.photowall.com/products/60721/white-marble-3.jpg?h=699&q=85);
+font-family: 'Times New Roman', Times, serif;
+font-size: 35px;
+text-align: center;
+line-height: 200px;
+}
+
+.kolumna{
+float: left;
+margin: 10px;
+width: 296px;
+height: 350px;
+border: 2px solid black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 19px;
+background-image: url(https://images.photowall.com/products/60721/white-marble-3.jpg?h=699&q=85);
+}
+
+
+#clear{
+clear: both;
+}
+
+#stopka{
+margin: 10px;
+width: 936px;
+height: 200px;
+border: 3px solid black;
+background-image: url(https://images.photowall.com/products/60721/white-marble-3.jpg?h=699&q=85);
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 18px;
+}
+ul {
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        border:1.5px solid black;
+        width:294.5px;
+      }
+      ul li 
+      {
+        border-top:1px solid black;
+      }
+      ul li:first-child 
+      {
+        border-top:none;
+      }
+      ul li a {
+        text-decoration:none;
+        background-color: silver;
+        display:block;
+        padding: 10px;
+        color:black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 23.5px;
+        border:1px solid #FFF;
+        background-image:url(https://www.alejahandlowa.pl/wp-content/uploads/bez-kategorii/marmur-847x570.jpg);
+        background-repeat:repeat-x;
+      }
+    ul li a:hover
+    {
+        color:goldenrod;
+        background-image:url(https://hoom.co/wp-content/uploads/2018/08/Bianco-Carrara-marmur-2-1.jpg);
+    }
+
+    .b{
+      font-weight: bolder;
+    }
+
+    .i{
+      font-style: italic;
+    }
+
+    table, table * {
+      border: 2px solid black;
+      border-spacing: 4px;
+      background-image: url(https://lh3.googleusercontent.com/proxy/mMaH1L-y4L-AwwdYu9PMIMSAWmm2y0ExUWgOKYW06GgHZopieNIg2li015ekHnrl6ddSra4Z63C1JBVM59mOvEPBtgbZD9A_mQ20SMRrw2Q);
+      height: 110px;
+      font-size: 19px;
+    }
+
+    ol {
+      margin: 1px;
+    }

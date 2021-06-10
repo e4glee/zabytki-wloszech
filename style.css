@@ -1,0 +1,67 @@
+body 
+{
+background-image: url(https://i.pinimg.com/originals/e5/79/96/e5799698e1255e1dfefd6c87b4fa8244.jpg);
+background-repeat: no-repeat;
+background-position: fixed;
+background-attachment: fixed;
+font-family: 'Times New Roman', Times, serif;
+ }
+p {
+    font-size: 27px;
+    text-align: center;
+    text-indent: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+ }
+h1 {
+font-size: 40px;
+text-shadow: black;
+text-align:center;
+text-shadow: 1px 1px 2px black;
+font-family: 'Times New Roman', Times, serif;
+}
+ul {
+list-style-type:none;
+margin:0;
+padding:0;
+border:1.5px solid black;
+width:300px;
+}
+ul li 
+{
+border-top:1px solid black;
+}
+ul li:first-child 
+{
+border-top:none;
+}
+ul li a {
+text-decoration:none;
+background-color: silver;
+display:block;
+padding: 10px;
+color:black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+border:1px solid #FFF;
+background-image:url(https://www.alejahandlowa.pl/wp-content/uploads/bez-kategorii/marmur-847x570.jpg);
+background-repeat:repeat-x;
+}
+ul li a:hover
+{
+color:goldenrod;
+background-image:url(https://hoom.co/wp-content/uploads/2018/08/Bianco-Carrara-marmur-2-1.jpg);
+}
+#zdjecie{
+width: 950px;
+height: 550px;
+border: 2px solid black;
+}
+
+.i{
+    font-style: italic;
+  }
+
+.c{
+ color: goldenrod;
+}
